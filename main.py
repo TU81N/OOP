@@ -24,3 +24,4 @@ kuro.eat("fish")
 randy.eat("milk")
 
 #Basics of OOP
+
